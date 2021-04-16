@@ -1,0 +1,1 @@
+varmsg = "This is a red key. When you pick it up, you will have a short period of time to bring it to the destination before it dissappears. #Do not worry, if you have not used it you will find it where you grabbed it.";

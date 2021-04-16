@@ -1,0 +1,1 @@
+varmsg = "P-Switches will turn coins into bricks, bricks into coins, and they will also reveal hidden stuff, but only when the song is playing.";

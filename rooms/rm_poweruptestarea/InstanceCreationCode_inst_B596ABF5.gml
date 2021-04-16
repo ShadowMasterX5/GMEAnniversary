@@ -1,0 +1,1 @@
+varmsg = "Welcome to the Powerup Test Area. Here you can see the huge variety of powerups GMEA has to offer, you can exit this area from any side of the level.";

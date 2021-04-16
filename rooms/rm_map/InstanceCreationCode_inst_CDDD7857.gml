@@ -1,0 +1,1 @@
+mapmusic = bgm_map1;

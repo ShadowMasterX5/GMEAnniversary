@@ -1,0 +1,29 @@
+/// @description Parachute Bob-Omb
+
+//How vulnerable is this enemy to various items?
+vulnerable = 1;
+
+//How vulnerable is this enemy to the player?
+stomp = 0;
+
+//How vulnerable is this enemy to yoshi?
+edible = 1;
+
+//Facing direction
+xscale = 1;
+
+//Whether the object landed in the ground
+ready = 0;
+
+//Whether the object is swimming
+swimming = false;
+
+//Parachute position
+para_y = 0;
+
+//Animate
+image_speed = 0.3;
+
+//Start moving
+alarm[10] = 2;
+

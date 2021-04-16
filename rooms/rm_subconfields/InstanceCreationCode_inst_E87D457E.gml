@@ -1,0 +1,1 @@
+myroom = rm_subconfields_b;

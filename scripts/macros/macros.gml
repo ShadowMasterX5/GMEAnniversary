@@ -1,0 +1,59 @@
+function macros() {
+#macro cs_version "03-04-2020 - v2.3"
+#macro cs_exitstotal 12
+#macro cs_levels 7
+#macro cs_pipey -35
+#macro cs_billy -34
+#macro cs_golden -33
+#macro cs_beanstalk -32
+#macro cs_propellerblock -31
+#macro cs_trampoline -30
+#macro cs_gswitch -29
+#macro cs_pswitch -28
+#macro cs_key -27
+#macro cs_rotten -26
+#macro cs_poison -25
+#macro cs_pwing -24
+#macro cs_star -23
+#macro cs_3up -22
+#macro cs_1up -21
+#macro cs_pentaroshoe -20
+#macro cs_jugemushoe -19
+#macro cs_dossunshoe -18
+#macro cs_baburushoe -17
+#macro cs_kuriboshoe -16
+#macro cs_yoshi_p -15
+#macro cs_yoshi_t -14
+#macro cs_yoshi_b -13
+#macro cs_yoshi_r -12
+#macro cs_yoshi_y -11
+#macro cs_yoshi -10
+#macro cs_coin_s -6
+#macro cs_coin -5
+#macro cs_area_b -4
+#macro cs_area_r -3
+#macro cs_area_g -2
+#macro cs_area_y -1
+#macro cs_small 0
+#macro cs_big 1
+#macro cs_fire 2
+#macro cs_ice 3
+#macro cs_carrot 4
+#macro cs_leaf 5
+#macro cs_frog 6
+#macro cs_tanooki 7
+#macro cs_hammer 8
+#macro cs_boomerang 9
+#macro cs_super 10
+#macro cs_bomb 11
+#macro cs_shell 12
+#macro cs_bee 13
+#macro cs_lightning 14
+#macro cs_penguin 15
+#macro cs_propeller 16
+#macro cs_cat 17
+#macro cs_football 18
+
+
+
+}

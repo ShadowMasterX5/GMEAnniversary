@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "spr_maplevel_fort",
+    "path": "sprites/spr_maplevel_fort/spr_maplevel_fort.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "spr_square",
+    "path": "sprites/spr_square/spr_square.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_maplevel",
+    "path": "objects/obj_maplevel/obj_maplevel.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 0,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_maplevel_castle","path":"objects/obj_maplevel_castle/obj_maplevel_castle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":1,"eventType":2,"collisionObjectId":null,"parent":{"name":"obj_maplevel_castle","path":"objects/obj_maplevel_castle/obj_maplevel_castle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Panels",
+    "path": "folders/Objects/World Map/Panels.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_maplevel_castle",
+  "tags": [],
+  "resourceType": "GMObject",
+}

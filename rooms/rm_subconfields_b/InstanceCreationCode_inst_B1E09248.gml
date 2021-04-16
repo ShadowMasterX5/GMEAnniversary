@@ -1,0 +1,1 @@
+varmsg = "This is a checkpoint flag, if you die after touching it you will respawn here instead from the start of the level. This checkpoint also saves the star coins you collected so far.";

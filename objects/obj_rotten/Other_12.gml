@@ -1,0 +1,4 @@
+/// @description Ignore enemies
+
+exit;
+

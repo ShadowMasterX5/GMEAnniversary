@@ -1,0 +1,1 @@
+sprout = round(random_range(cs_yoshi,cs_yoshi_p));

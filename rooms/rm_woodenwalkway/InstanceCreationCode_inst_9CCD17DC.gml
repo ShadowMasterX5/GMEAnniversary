@@ -1,0 +1,1 @@
+varmsg = "Welcome to the world of Gatete Mario Engine: Anniversary Edition. Please make sure to hit these boxes to obtain useful information about the features of the engine."
